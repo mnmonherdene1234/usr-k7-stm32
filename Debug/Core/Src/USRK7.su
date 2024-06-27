@@ -1,0 +1,4 @@
+../Core/Src/USRK7.c:7:13:USRK7_transmit	24	static
+../Core/Src/USRK7.c:11:13:USRK7_receive	16	static
+../Core/Src/USRK7.c:17:13:USRK7_transmit_receive	24	static
+../Core/Src/USRK7.c:23:5:USRK7_init	16	static

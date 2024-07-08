@@ -28,6 +28,7 @@ int USRK7_init(UART_HandleTypeDef *uart) {
 	USRK7_receive(200);
 
 	if (strstr(USRK7_BUFFER, "a")) {
+		HAL_Delay(200);
 		sprintf(USRK7_COMMAND, "a");
 		USRK7_transmit(USRK7_COMMAND, 1000);
 

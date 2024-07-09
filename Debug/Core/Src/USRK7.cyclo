@@ -1,4 +1,4 @@
-../Core/Src/USRK7.c:7:13:USRK7_transmit	1
-../Core/Src/USRK7.c:11:13:USRK7_receive	1
-../Core/Src/USRK7.c:17:13:USRK7_transmit_receive	1
-../Core/Src/USRK7.c:23:5:USRK7_init	3
+../Core/Src/USRK7.c:7:19:USRK7_transmit	1
+../Core/Src/USRK7.c:12:14:USRK7_receive	3
+../Core/Src/USRK7.c:27:14:USRK7_transmit_receive	2
+../Core/Src/USRK7.c:38:5:USRK7_init	11
